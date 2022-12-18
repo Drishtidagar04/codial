@@ -1,4 +1,7 @@
-body{
-    text-align: center;
-    margin: 5px 7px;
-}
+body {
+  text-align: center;
+  margin: 5px 7px; }
+  body #layout-main {
+    height: 100%; }
+    body #layout-main #home {
+      background-color: aqua; }

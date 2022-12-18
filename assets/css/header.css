@@ -1,0 +1,6 @@
+body {
+  display: flexbox; }
+
+ul {
+  display: flexbox;
+  column-gap: normal; }
